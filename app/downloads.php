@@ -61,7 +61,7 @@
                     <p>&nbsp;</p>
                     <h3>Downloads</h3>
                                 <?
-                                $path    = 'downloads/';
+                                $path    = 'images/download/';
                                 $files = scandir($path);
                                 $files = array_diff(scandir($path), array('.', '..', '.DS_Store'));
                                 foreach($files as $file){
