@@ -98,7 +98,7 @@ if( $_SERVER['REQUEST_METHOD'] == 'POST' ) {
 
 	$prefix		= !empty( $_POST['prefix'] ) ? $_POST['prefix'] : '';
 	$submits	= $_POST;
-	$botpassed	= false;
+	$botpassed	= false; 
 
 
 	$message_form					= !empty( $submits['message'] ) ? $submits['message'] : array();
