@@ -70,7 +70,7 @@
 								<li><i class="icon-line-folder"></i><a href="#"><?=$file;?></a>
 									<ul>
                                         <?
-                                        $path2    = 'downloads/'.$file.'/';
+                                        $path2    = 'images/download/'.$file.'/';
                                         $files2 = scandir($path2);
                                         $files2 = array_diff(scandir($path2), array('.', '..', '.DS_Store'));
                                         foreach($files2 as $file2){
