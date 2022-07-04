@@ -176,7 +176,7 @@ Minha mensagem pra você:
 									<!-- Overlay: Start -->
 									<div class="bg-overlay">
 										<div class="bg-overlay-content dark" data-hover-animate="fadeIn">
-											<a href="images/videos/gilberto.mp4" class="overlay-trigger-icon bg-light text-dark" data-hover-animate="fadeInDownSmall" data-hover-animate-out="fadeOutUpSmall" data-hover-speed="350" data-lightbox="iframe"><i class="icon-line-play"></i></a>
+											<a href="https://smoler.com.br/sonhandoalto/images/videos/gilberto.mp4" class="overlay-trigger-icon bg-light text-dark" data-hover-animate="fadeInDownSmall" data-hover-animate-out="fadeOutUpSmall" data-hover-speed="350" data-lightbox="iframe"><i class="icon-line-play"></i></a>
 											<a href="#myModal_gilberto" data-lightbox="inline" class="overlay-trigger-icon bg-light text-dark" data-hover-animate="fadeInDownSmall" data-hover-animate-out="fadeOutUpSmall" data-hover-speed="350"  title="Image"><i class="icon-line-circle-plus"></i></a>
 										</div>
 										<div class="bg-overlay-bg dark" data-hover-animate="fadeIn"></div>
@@ -797,7 +797,7 @@ Minha família não tinha condições financeiras, mas ao ouvir falar da colport
                             <!-- Fim Modal -->
 						</article>
 
-						<article class="portfolio-item col-lg-3 col-md-4 col-sm-6 col-12 pf-estudantes">
+						<article class="portfolio-item col-lg-3 col-md-4 col-sm-6 col-12 pf-formado">
 							<!-- Grid Inner: Start -->
 							<div class="grid-inner">
 								<!-- Image: Start -->
